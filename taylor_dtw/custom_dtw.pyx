@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 # distutils: language = c++
-# distutils: sources = dtw.cpp
 import numpy as np
 cimport numpy as np
 cimport cython

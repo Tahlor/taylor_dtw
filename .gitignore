@@ -11,6 +11,9 @@ LOGS/
 
 # Ignore CSV files
 *.csv
+*.cpp
+*.egg
+build/
 
 # Ignore credentials and secrets
 *password*
